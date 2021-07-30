@@ -1,0 +1,38 @@
+.navbar {
+    top: 0px;
+    left: 0px;
+    height: 5rem;
+    width: 100%;
+    position: fixed;
+    z-index: 10;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: row;
+}
+
+.navbar label, a {
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+    font-size: large;
+}
+
+.logo {    
+    padding: 1.5rem;
+}
+
+.home {    
+    padding: 1.5rem;
+    margin-right: 30vw;
+}
+
+.home:hover {
+    background-color: darkturquoise;
+    transition: 250ms;
+}
+
+.search-box {    
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: row;
+}

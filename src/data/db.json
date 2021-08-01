@@ -1,0 +1,60 @@
+{
+    "meals": [
+      {
+        "idMeal": "1",
+        "strMeal": "Lemon Pie",
+        "strDrinkAlternate": null,
+        "strCategory": "Dessert",
+        "strArea": "French",
+        "strInstructions": "",
+        "strMealThumb": "https://img-global.cpcdn.com/recipes/3ebae289ff6bf5af/751x532cq70/lemon-pie-tradicional-foto-principal.jpg",
+        "strTags": "Tart,Baking,Fruity",
+        "strYoutube": "https://youtu.be/qk_Q4doE_4E",
+        "strPart1": {
+            "strTitle": "Relleno",
+            "strIngredient1": "Azúcar blanco",
+            "strIngredient2": "Ralladura de Limón",
+            "strIngredient3": "Jugo de Limón",
+            "strIngredient4": "Manteca",
+            "strIngredient5": "Fécula de maíz",
+            "strIngredient6": "Leche",
+            "strIngredient7": "Yemas",
+            "strIngredient8": "Queso crema",
+            "strMeasure1": "180 grs",
+            "strMeasure2": "1 cda",
+            "strMeasure3": "½ taza",
+            "strMeasure4": "¼ taza",
+            "strMeasure5": "3 ½ cdas",
+            "strMeasure6": "1 taza",
+            "strMeasure7": "3",
+            "strMeasure8": "200 grs"
+        },
+        "strPart2": {
+            "strTitle": "Masa",
+            "strIngredient1": "Huevos",
+            "strIngredient2": "Manteca",
+            "strIngredient3": "Azúcar",
+            "strIngredient4": "Harina",
+            "strIngredient5": "Ralladura",
+            "strMeasure1": "1",
+            "strMeasure2": "100 grs",
+            "strMeasure3": "100 grs",
+            "strMeasure4": "250 grs",
+            "strMeasure5": "1 limón"
+        },
+        "strPart3": {
+            "strTitle": "Merengue italiano",
+            "strIngredient1": "Agua",
+            "strIngredient2": "Azúcar",
+            "strIngredient3": "Claras de huevo",
+            "strMeasure1": "100 cc",
+            "strMeasure2": "240 grs",
+            "strMeasure3": "4"
+        },
+        "strSource": "http://www.recetalemonpie.com/files/Receta_lemon_pie.pdf",
+        "strImageSource": null,
+        "strCreativeCommonsConfirmed": null,
+        "dateModified": null
+      }
+    ]
+  }

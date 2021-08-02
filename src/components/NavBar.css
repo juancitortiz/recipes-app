@@ -21,14 +21,14 @@
     padding: 1.5rem;
 }
 
-.home {    
+.nav-button {    
     padding: 1.5rem;
     margin-right: 30vw;
 }
 
-.home:hover {
+.nav-button:hover {
     background-color: darkturquoise;
-    transition: 250ms;
+    transition: 550ms;
 }
 
 .search-box {    

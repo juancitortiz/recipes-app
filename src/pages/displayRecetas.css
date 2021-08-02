@@ -1,0 +1,27 @@
+.container {
+    width: 100vmin;
+    margin: auto;
+}
+
+.card:hover {
+    filter: brightness(120%) saturate(150%);
+    transition: 550ms;
+}
+
+.meal-img {
+    width: 30vw;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.meal-img img {
+    display: block;
+    width: 30vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.meal-name {
+    font-size: large;
+}

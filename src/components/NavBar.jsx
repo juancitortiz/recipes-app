@@ -11,9 +11,14 @@ export default function NavBar() {
                 <div className="logo">
                     <label>LOGO</label>
                 </div>
-                <div className="home">
+                <div className="nav-button">
                     <Link to="/">
                         <label>Home</label>
+                    </Link>
+                </div>
+                <div className="nav-button">
+                    <Link to="/agregar-receta/">
+                        <label>Add Recipe</label>
                     </Link>
                 </div>
                 <div className="search-box">
